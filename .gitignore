@@ -1,20 +1,6 @@
-﻿# Virtual environment
-.venv/
-
-# Python cache
+﻿.venv/
 __pycache__/
 *.pyc
-
-# Model files / large artifacts
 *.keras
 *.h5
-model.0-9digit.keras
-data/
-*.npz
-
-# Jupyter
-.ipynb_checkpoints/
-
-# System
-.DS_Store
-Thumbs.db
+*.pth
